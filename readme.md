@@ -1,12 +1,8 @@
 # Code Reuse in CF: Is Spaghetti Code still Spaghetti if it's DRY? with Gavin Pickin
 
-## Online ColdFusion Meetup (coldfusionmeetup.com) for Jun 9, 2022
+## Online ColdFusion Meetup (coldfusionmeetup.com) for May 12, 2022
 
-There is always a trade-off between using a 3rd party library and rolling your version in software development. I often hear many of these points in discussions, but I wonder how many people know and consider them, so I wanted to share my pros and cons.
-
-This presentation will help convince you that libraries are not EVIL like so many haters believe. Choosing the right libraries will make you more productive and efficient, not lazy. We'll look at how to identify solid use-cases for using a 3rd party library in your application. It gives you a checklist of questions to help you identify the red flags of unsafe, unreliable, poorly supported, or ill-suited libraries.
-
-We'll even look at some examples in the CFML Landscape.
+Find out the difference between DRY code and WET code, and what one is better, and more importantly, WHY. We write code one, but we read it over and over again, maintaining our code is 90% of the job... code reuse is our friend. You are already Re-using code, even if you didn't know you were. We'll learn about the different types of Code Reuse in ColdFusion, the pros and cons of each.
 
 **Slides:** https://bit.ly/3QJkJqt (or in slides folder)
 
