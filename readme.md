@@ -9,5 +9,7 @@ This presentation will help convince you that libraries are not EVIL like so man
 We'll even look at some examples in the CFML Landscape.
 
 **Slides:** https://bit.ly/3QJkJqt (or in slides folder)
+
 **Repo:** https://github.com/gpickin/20220509_OnlineCFMLMeetup_CodeReuse
+
 **YouTube Recording:** https://www.youtube.com/watch?v=MnOW6G5MVqE&list=PLG2EHzEbhy0-QirMKgSxhjkUyTSSTvHjL&index=3
